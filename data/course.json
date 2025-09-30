@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ]
+  ],
+  "legacy_uid": "08c81aef-1e75-a415-765d-482a6482779b",
+  "instructors": {
+    "content": [
+      "69e02dfa-3bda-75c6-4e19-324ed077d48b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e40b0ada-a5bf-f70b-7317-95bf49e7a67e",
+    "website": "21g-311-introduction-to-french-culture-spring-2014"
+  },
+  "course_title": "Introduction to French Culture",
+  "hide_download": true,
+  "course_description": "This course examines major social and political trends, events, debates and personalities which help place aspects of contemporary French culture in their historical perspective through fiction, films, essays, newspaper articles, and television. Topics include the heritage of the French Revolution, the growth and consequences of colonialism, the role of intellectuals in public debates, the impact of the Occupation, the modernization of the economy and of social structures. The sources and meanings of national symbols, monuments, myths and manifestoes are also studied. Recommended for students planning to study abroad. Taught in French.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.311",
+  "course_image_thumbnail": {
+    "content": "c5b11726-c106-1611-98be-2369071e67c2",
+    "website": "21g-311-introduction-to-french-culture-spring-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "a0e34cb7-d6ac-4237-adc5-a1b3d28a0161",
+  "site_short_id": "21g.311-spring-2014",
+  "site_url_path": "courses/21g-311-introduction-to-french-culture-spring-2014",
+  "title": "Course Metadata"
+}
